@@ -4,5 +4,5 @@
 
 🌱 I am currently a third-year student at Wuhan University.
 
-| 🪪 [My website](https://skylanding.github.io) | 📜 [Google Scholar](https://scholar.google.com/citations?user=Mmbvwu0AAAAJ) | 🤝 [LinkedIn](https:/ /www.linkedin.com/in/yu-li-a089a6282/) |
+| 🪪 [My website](https://skylanding.github.io) | 📜 [Google Scholar](https://scholar.google.com/citations?user=Mmbvwu0AAAAJ) | 🤝 [LinkedIn](https://www.linkedin.com/in/yu-li-a089a6282/) |
 
