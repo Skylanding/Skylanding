@@ -1,4 +1,4 @@
-### Hi,I'm [Jaray](https://skylanding.github.io) 👋
+### Hey,I'm [Jaray](https://skylanding.github.io) 👋
 
 💻 I design and develop machine learning models, mainly for medical image segmentation🩺, biological signal processing🧬, using methods that involve analyzing and tuning large language models (LLM) and embedded device development🤖. Now I'm interested in AI application in EDA 🖥. 
 
